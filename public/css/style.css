@@ -1,0 +1,34 @@
+.floatright{
+    float: right;
+}
+
+.centeralign{
+    text-align: center;
+}
+
+.dir_rtl{
+    direction: rtl;
+}
+
+/*a,a:active,a:visited,a:link,a:hover{*/
+    /*color: #1b1e21;*/
+    /*text-decoration: none;*/
+/*}*/
+
+.dang-color{
+    color: red;
+}
+
+button > a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+span.label.pull-left{
+    margin-right: 2px;
+}
+
+span.label.pull-left>a{
+    text-decoration: none;
+    color: white;
+}
